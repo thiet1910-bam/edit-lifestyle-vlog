@@ -1,4 +1,4 @@
-# Bỏ qua các file video quay thô nặng hàng trăm MB để đẩy lên GitHub nhẹ và không vượt giới hạn 100MB của GitHub
+# Video thô & Video xuất bản dung lượng lớn
 *.mov
 *.MOV
 *.mp4
@@ -7,17 +7,21 @@
 *.WAV
 *.zip
 *.ZIP
-BAN_GIAO_NHAN_SU_EDITOR/
+*.docx
 
-# Giữ lại file nhạc nền BGM mẫu (< 3MB) để người dùng clone về dùng được ngay
-!2_KHO_NGUYEN_LIEU/nhac_nen_bgm/*.mp3
-
-# Bỏ qua các thư mục cắt ghép tạm thời & bộ nhớ đệm Python
+# Các thư mục frame trung gian & lớp phủ PNG sinh tự động khi chạy script
 **/rendered_segments/
 **/source_frames/
 **/verify_frames/
 **/qa_frames/
 **/frames_2s/
+**/img7150_frames/
+**/overlays/
+
+# Giữ lại nhạc nền BGM chuẩn (< 3MB)
+!2_KHO_NGUYEN_LIEU/nhac_nen_bgm/*.mp3
+
+# Hệ thống & Cache Python
 __pycache__/
 *.pyc
 .DS_Store
