@@ -30,12 +30,12 @@ Bộ kỹ năng (**Agent Skill**) tự động hóa sản xuất video ngắn d�
 
 ### Cách 1: Cài đặt qua `npx skills` (Chuẩn `skills.sh` / Antigravity / Claude Code / Cursor)
 ```bash
-npx skills add <your-github-username>/edit-lifestyle-vlog
+npx skills add thiet1910-bam/edit-lifestyle-vlog
 ```
 
 ### Cách 2: Clone trực tiếp Repository làm Workspace Sản Xuất
 ```bash
-git clone https://github.com/<your-github-username>/edit-lifestyle-vlog.git
+git clone https://github.com/thiet1910-bam/edit-lifestyle-vlog.git
 cd edit-lifestyle-vlog
 pip install -r requirements.txt
 ```

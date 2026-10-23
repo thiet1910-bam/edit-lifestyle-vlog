@@ -1,6 +1,10 @@
 {
-  "name": "edit-lifestyle-vlog-skill",
+  "name": "edit-lifestyle-vlog",
   "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thiet1910-bam/edit-lifestyle-vlog.git"
+  },
   "description": "3-Step Closed-Loop AI Video Editor Skill for 9:16 Daily Routine & Family Lifestyle Vlogs with CapCut-style 5-Track HTML Studio, FFmpeg Native Rendering, and Subtle KOC Seeding.",
   "keywords": [
     "agent-skills",

@@ -1,47 +1,39 @@
 @echo off
 chcp 65001 >nul
-title TU DONG DAY SKILL EDIT-LIFESTYLE-VLOG LEN GITHUB
+title TU DONG DAY SKILL LEN GITHUB [thiet1910-bam/edit-lifestyle-vlog]
 cd /d "%~dp0"
 
-echo ============================================================================
-echo   TU DONG HOA DAY SKILL [edit-lifestyle-vlog] LEN GITHUB
-echo   (Chuan he sinh thai Agent Skills: Antigravity / Claude Code / Cursor)
-echo ============================================================================
-echo.
-echo Huong dan nhanh:
-echo   1. Mo trinh duyet vao: https://github.com/new
-echo   2. Dat ten Repository la: edit-lifestyle-vlog (chon Public hoac Private, KHONG tich Add README)
-echo   3. Bam "Create repository" va copy duong link https://github.com/.../edit-lifestyle-vlog.git
-echo.
-set /p REPO_URL="👉 Dan link GitHub Repository cua ban vao day (rồi bấm Enter): "
+set REPO_URL=https://github.com/thiet1910-bam/edit-lifestyle-vlog.git
 
-if "%REPO_URL%"=="" (
-    echo [LOI] Ban chua nhap link GitHub Repository!
-    pause
-    exit /b 1
-)
+echo ============================================================================
+echo   TU DONG DAY SKILL LEN TAI KHOAN: https://github.com/thiet1910-bam
+echo   Repository dich: %REPO_URL%
+echo ============================================================================
+echo.
+echo [BUOC 1] Dang mo trang tao Repository (da dien san ten "edit-lifestyle-vlog")...
+start "" "https://github.com/new?name=edit-lifestyle-vlog&description=3-Step+AI+Video+Editor+Skill+for+9:16+Lifestyle+Vlogs"
+echo   👉 Tren trinh duyet vua mo, ban chi can keo xuong bam nut xanh "Create repository"!
+echo.
+pause
 
 echo.
-echo [1/3] Dang cau hinh Git Remote Origin...
+echo [BUOC 2] Dang ket noi va day (push) toan bo Skill len %REPO_URL%...
 git remote remove origin 2>nul
 git remote add origin %REPO_URL%
-
-echo [2/3] Dang cap nhat cac thay doi moi nhat...
-git add .
-git commit -m "chore: update skill package for GitHub release" 2>nul
-
-echo [3/3] Dang day (push) len GitHub (Neu cua so dang nhap GitHub hien ra, hay bam Sign in with Browser)...
 git branch -M main
 git push -u origin main
 
 echo.
 if %ERRORLEVEL% EQU 0 (
     echo ============================================================================
-    echo   [THANH CONG 100%%] DA DAY SKILL LEN GITHUB!
-    echo   Link Repo: %REPO_URL%
-    echo   Lenh cai dat tren may bat ky: npx skills add %REPO_URL%
+    echo   [THANH CONG 100%%] DA DAY SKILL LEN GITHUB CUA BAN!
+    echo   👉 Xem ngay tai: https://github.com/thiet1910-bam/edit-lifestyle-vlog
+    echo   👉 Lenh cai dat Skill (kieu Remotion/Hyperframes):
+    echo      npx skills add thiet1910-bam/edit-lifestyle-vlog
     echo ============================================================================
+    start "" "https://github.com/thiet1910-bam/edit-lifestyle-vlog"
 ) else (
-    echo [THONG BAO] Neu chua dang nhap GitHub, hay dang nhap tren cua so hien ra va chay lai file nay.
+    echo [LUU Y] Neu ban chua bam "Create repository" tren web hoac chua dang nhap GitHub,
+    echo hay bam "Create repository" tren trinh duyet roi chay lai file nay nhe!
 )
 pause
