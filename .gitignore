@@ -5,6 +5,9 @@
 *.MP4
 *.wav
 *.WAV
+*.zip
+*.ZIP
+BAN_GIAO_NHAN_SU_EDITOR/
 
 # Giữ lại file nhạc nền BGM mẫu (< 3MB) để người dùng clone về dùng được ngay
 !2_KHO_NGUYEN_LIEU/nhac_nen_bgm/*.mp3
