@@ -1,6 +1,6 @@
 ---
 name: edit-lifestyle-vlog
-description: "Hệ thống Editor AI 3 Bước Khép Kín chuyên biệt cho phong cách 'Daily Routine / Family Lifestyle Vlog kết hợp KOC Affiliate Seeding ẩn' (Khung dọc 9:16, nhịp cắt nhanh 1.2s-1.8s/shot, dẫn chuyện bằng Chữ Vàng viền Đen #FFE600 ở vùng 1/3 trên + Cột mốc giờ, trộn Nhạc nền BGM cảm xúc + Âm thanh ASMR gốc, và tạo Vòng lặp vô tận Seamless Loop). Bao gồm: Bước 1 Khám phá & Đọc vị tài nguyên, Bước 2 Lên kịch bản + Bàn dựng HTML 5-Track kiểu CapCut + Kiểm duyệt mắt, Bước 3 Kết xuất MP4 chuẩn 1080x1920 bằng FFmpeg Native Engine & Xuất dự án CapCut PC."
+description: "Hệ thống Editor AI 3 Bước Khép Kín chuyên biệt cho phong cách 'Daily Routine / Family Lifestyle Vlog kết hợp KOC Affiliate Seeding ẩn' (Khung dọc 9:16, nhịp cắt nhanh 1.2s-1.8s/shot, dẫn chuyện bằng Chữ Vàng viền Đen #FFE600 ở vùng 1/3 trên + Cột mốc giờ, trộn Nhạc nền BGM cảm xúc + Âm thanh ASMR gốc, và tạo Vòng lặp vô tận Seamless Loop). Bao gồm: Bước 1 Khám phá & Đọc vị tài nguyên, Bước 2 Lên kịch bản + Bàn dựng HTML 5-Track kiểu CapCut + Kiểm duyệt mắt, Bước 3 Kết xuất MP4 chuẩn 1080x1920 bằng FFmpeg Native Engine & Xuất dự án CapCut PC. Kích hoạt (Trigger): /edit-lifestyle-vlog, /dung-vlog, /edit-vlog."
 ---
 
 # Hệ Thống Editor AI 3 Bước Khép Kín — `edit-lifestyle-vlog`
