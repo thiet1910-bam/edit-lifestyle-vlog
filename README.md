@@ -59,8 +59,6 @@ edit-lifestyle-vlog/
 │               ├── buoc-1-phan-tich-du-lieu-dau-vao.md
 │               ├── buoc-2-dung-phan-canh-va-kiem-duyet.md
 │               └── buoc-3-cat-ghep-ffmpeg-va-capcut.md
-├── skills/
-│   └── edit-lifestyle-vlog/               # Bản sao chuẩn cấu trúc npx skills add (skills.sh)
 ├── 00_TU_DUY_QUY_TRINH_VA_GU_EDIT/        # Kho tư duy, cẩm nang nhịp dựng & phân tích đối thủ
 ├── 1_INPUT_NHAN_SU/                       # Nơi bỏ video quay thô (.mov/.mp4) của từng tập
 ├── 2_KHO_NGUYEN_LIEU/                     # Nhạc nền BGM chữa lành & Contact Sheet phân tích

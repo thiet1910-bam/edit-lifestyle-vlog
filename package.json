@@ -17,7 +17,6 @@
     "cursor"
   ],
   "files": [
-    "skills",
     ".agent/skills",
     "README.md",
     "requirements.txt"
