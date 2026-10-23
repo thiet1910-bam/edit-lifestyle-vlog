@@ -183,6 +183,9 @@ def render_final_mp4(edl_json_path: str, out_mp4_path: str):
     print(f"Rendered final MP4: {out_mp4}")
     capcut_dir = out_mp4.parent / f"{out_mp4.stem}_capcut_draft"
     export_capcut_draft(edl, capcut_dir)
+    if out_mp4.exists() and out_mp4.stat().st_size > 10000 and seg_dir.exists():
+        import shutil as _shutil
+        _shutil.rmtree(seg_dir, ignore_errors=True)
 
 if __name__ == "__main__":
     if len(sys.argv) < 3:
