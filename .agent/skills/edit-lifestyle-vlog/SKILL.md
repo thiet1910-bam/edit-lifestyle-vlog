@@ -32,7 +32,8 @@ Lifestyle Vlog/
 │   ├── scripts/
 │   │   ├── buoc_1_phan_tich_source.py
 │   │   ├── buoc_2_tao_ban_dung_va_preview.py
-│   │   └── buoc_3_xuat_mp4_va_capcut.py
+│   │   ├── buoc_3_xuat_mp4_va_capcut.py
+│   │   └── auto_sync_github.py            # Tự động đồng bộ 2 chiều lên GitHub sau mỗi bước
 │   └── references/
 │       ├── buoc-1-phan-tich-du-lieu-dau-vao.md
 │       ├── buoc-2-dung-phan-canh-va-kiem-duyet.md

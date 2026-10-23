@@ -524,3 +524,8 @@ if __name__ == "__main__":
         print("Usage: python buoc_2_tao_ban_dung_va_preview.py <edit_decision_list.json>")
         sys.exit(1)
     build_step2_preview(sys.argv[1])
+    try:
+        from auto_sync_github import sync_to_github
+        sync_to_github("feat(step-2): auto-sync EDL, CapCut 5-track HTML studio & preview sheets")
+    except Exception:
+        pass

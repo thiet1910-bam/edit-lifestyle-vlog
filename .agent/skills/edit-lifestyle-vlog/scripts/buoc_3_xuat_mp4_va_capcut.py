@@ -192,3 +192,8 @@ if __name__ == "__main__":
         print("Usage: python buoc_3_xuat_mp4_va_capcut.py <edit_decision_list.json> <out_mp4_path>")
         sys.exit(1)
     render_final_mp4(sys.argv[1], sys.argv[2])
+    try:
+        from auto_sync_github import sync_to_github
+        sync_to_github("feat(step-3): auto-sync CapCut PC draft & verification sheets")
+    except Exception:
+        pass

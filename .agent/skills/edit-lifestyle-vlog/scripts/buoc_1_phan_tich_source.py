@@ -88,3 +88,8 @@ if __name__ == "__main__":
         print("Usage: python buoc_1_phan_tich_source.py <input_dir> <out_dir>")
         sys.exit(1)
     analyze_folder(sys.argv[1], sys.argv[2])
+    try:
+        from auto_sync_github import sync_to_github
+        sync_to_github("feat(step-1): auto-sync source catalog & contact sheets")
+    except Exception:
+        pass
