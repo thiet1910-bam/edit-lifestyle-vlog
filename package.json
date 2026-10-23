@@ -1,0 +1,22 @@
+{
+  "name": "edit-lifestyle-vlog-skill",
+  "version": "1.0.0",
+  "description": "3-Step Closed-Loop AI Video Editor Skill for 9:16 Daily Routine & Family Lifestyle Vlogs with CapCut-style 5-Track HTML Studio, FFmpeg Native Rendering, and Subtle KOC Seeding.",
+  "keywords": [
+    "agent-skills",
+    "ai-video-editor",
+    "lifestyle-vlog",
+    "capcut",
+    "ffmpeg",
+    "antigravity",
+    "claude-code",
+    "cursor"
+  ],
+  "files": [
+    "skills",
+    ".agent/skills",
+    "README.md",
+    "requirements.txt"
+  ],
+  "license": "MIT"
+}

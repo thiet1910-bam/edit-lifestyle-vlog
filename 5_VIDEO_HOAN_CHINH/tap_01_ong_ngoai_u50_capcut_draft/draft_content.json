@@ -1,0 +1,1781 @@
+{
+  "id": "CD2115CB-80E8-458A-97FE-E21B53B0161F",
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 76450000,
+  "fps": 30.0,
+  "materials": {
+    "videos": [
+      {
+        "id": "6EC11130-6AB1-4ECC-B0B9-94BD61D02153",
+        "path": "e:\\02_CHANNEL\\thu-nghiem\\edit-video\\Lifestyle Vlog\\1_INPUT_NHAN_SU\\cac_phan_da_cat\\IMG_7153.MOV",
+        "type": "video",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "id": "261E59D3-C542-437C-8AD5-85CC9EAB7464",
+        "path": "e:\\02_CHANNEL\\thu-nghiem\\edit-video\\Lifestyle Vlog\\1_INPUT_NHAN_SU\\cac_phan_da_cat\\IMG_7137.MOV",
+        "type": "video",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "id": "EE316B59-F52A-467A-A510-9FBEBE534646",
+        "path": "e:\\02_CHANNEL\\thu-nghiem\\edit-video\\Lifestyle Vlog\\1_INPUT_NHAN_SU\\cac_phan_da_cat\\IMG_7146.MOV",
+        "type": "video",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "id": "DC175045-3F25-4D0E-A094-986398024276",
+        "path": "e:\\02_CHANNEL\\thu-nghiem\\edit-video\\Lifestyle Vlog\\1_INPUT_NHAN_SU\\cac_phan_da_cat\\IMG_7155.MOV",
+        "type": "video",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "id": "DE666AA8-894B-492D-800E-2507FBF05F55",
+        "path": "e:\\02_CHANNEL\\thu-nghiem\\edit-video\\Lifestyle Vlog\\1_INPUT_NHAN_SU\\cac_phan_da_cat\\IMG_7129.MOV",
+        "type": "video",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "id": "2D610028-D5DE-4953-834A-F548BA94865E",
+        "path": "e:\\02_CHANNEL\\thu-nghiem\\edit-video\\Lifestyle Vlog\\1_INPUT_NHAN_SU\\cac_phan_da_cat\\IMG_7129.MOV",
+        "type": "video",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "id": "C4FB5DE4-5B3C-499F-A00A-A9F0862FAC30",
+        "path": "e:\\02_CHANNEL\\thu-nghiem\\edit-video\\Lifestyle Vlog\\1_INPUT_NHAN_SU\\cac_phan_da_cat\\IMG_7129.MOV",
+        "type": "video",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "id": "8A66F592-6E30-4469-8410-BA0880D68D09",
+        "path": "e:\\02_CHANNEL\\thu-nghiem\\edit-video\\Lifestyle Vlog\\1_INPUT_NHAN_SU\\cac_phan_da_cat\\IMG_7130.MOV",
+        "type": "video",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "id": "FFF424A1-E0C6-4A3E-A2FB-166A8DCD6FA7",
+        "path": "e:\\02_CHANNEL\\thu-nghiem\\edit-video\\Lifestyle Vlog\\1_INPUT_NHAN_SU\\cac_phan_da_cat\\IMG_7131.MOV",
+        "type": "video",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "id": "736BFC17-03FF-4C0E-B74C-EC171DFCE87F",
+        "path": "e:\\02_CHANNEL\\thu-nghiem\\edit-video\\Lifestyle Vlog\\1_INPUT_NHAN_SU\\cac_phan_da_cat\\IMG_7133.MOV",
+        "type": "video",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "id": "52A6E51F-79A2-4994-A613-8D1FED3A9AAA",
+        "path": "e:\\02_CHANNEL\\thu-nghiem\\edit-video\\Lifestyle Vlog\\1_INPUT_NHAN_SU\\cac_phan_da_cat\\IMG_7135.mov",
+        "type": "video",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "id": "3815BA6F-9FA8-4625-B8F5-C75F4AFCBEA4",
+        "path": "e:\\02_CHANNEL\\thu-nghiem\\edit-video\\Lifestyle Vlog\\1_INPUT_NHAN_SU\\cac_phan_da_cat\\IMG_7133.MOV",
+        "type": "video",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "id": "8630F828-59CE-44D3-8C39-D63A43F20D7A",
+        "path": "e:\\02_CHANNEL\\thu-nghiem\\edit-video\\Lifestyle Vlog\\1_INPUT_NHAN_SU\\cac_phan_da_cat\\IMG_7135.mov",
+        "type": "video",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "id": "28B8C9EC-9B2E-4F34-B0EC-9B044102F600",
+        "path": "e:\\02_CHANNEL\\thu-nghiem\\edit-video\\Lifestyle Vlog\\1_INPUT_NHAN_SU\\cac_phan_da_cat\\IMG_7136.MOV",
+        "type": "video",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "id": "C98D5CC9-3E94-4BE7-A725-2EAA86E1F1D9",
+        "path": "e:\\02_CHANNEL\\thu-nghiem\\edit-video\\Lifestyle Vlog\\1_INPUT_NHAN_SU\\cac_phan_da_cat\\IMG_7136.MOV",
+        "type": "video",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "id": "BB35A974-9111-4221-936E-A285702AB197",
+        "path": "e:\\02_CHANNEL\\thu-nghiem\\edit-video\\Lifestyle Vlog\\1_INPUT_NHAN_SU\\cac_phan_da_cat\\IMG_7137.MOV",
+        "type": "video",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "id": "372D2CF9-FFAE-44BD-9F88-9D935679338C",
+        "path": "e:\\02_CHANNEL\\thu-nghiem\\edit-video\\Lifestyle Vlog\\1_INPUT_NHAN_SU\\cac_phan_da_cat\\IMG_7137.MOV",
+        "type": "video",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "id": "0CE643A1-23B4-4548-8EAC-FF810D679BDA",
+        "path": "e:\\02_CHANNEL\\thu-nghiem\\edit-video\\Lifestyle Vlog\\1_INPUT_NHAN_SU\\cac_phan_da_cat\\IMG_7139.MOV",
+        "type": "video",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "id": "DEFC73DF-28C2-4528-BAF1-8E57AA487926",
+        "path": "e:\\02_CHANNEL\\thu-nghiem\\edit-video\\Lifestyle Vlog\\1_INPUT_NHAN_SU\\cac_phan_da_cat\\IMG_7139.MOV",
+        "type": "video",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "id": "9A1B29E0-1326-4717-AF46-8F44E45E7748",
+        "path": "e:\\02_CHANNEL\\thu-nghiem\\edit-video\\Lifestyle Vlog\\1_INPUT_NHAN_SU\\cac_phan_da_cat\\IMG_7140.MOV",
+        "type": "video",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "id": "07A383A5-1BA8-4505-90EC-4B0F1F9BF043",
+        "path": "e:\\02_CHANNEL\\thu-nghiem\\edit-video\\Lifestyle Vlog\\1_INPUT_NHAN_SU\\cac_phan_da_cat\\IMG_7140.MOV",
+        "type": "video",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "id": "813845EE-8CC2-432A-9584-775C24997A0C",
+        "path": "e:\\02_CHANNEL\\thu-nghiem\\edit-video\\Lifestyle Vlog\\1_INPUT_NHAN_SU\\cac_phan_da_cat\\IMG_7142.MOV",
+        "type": "video",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "id": "04D92720-9A6D-4315-8648-341E64725657",
+        "path": "e:\\02_CHANNEL\\thu-nghiem\\edit-video\\Lifestyle Vlog\\1_INPUT_NHAN_SU\\cac_phan_da_cat\\IMG_7142.MOV",
+        "type": "video",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "id": "A7125C37-407D-4D75-AF80-CDA18CD8297D",
+        "path": "e:\\02_CHANNEL\\thu-nghiem\\edit-video\\Lifestyle Vlog\\1_INPUT_NHAN_SU\\cac_phan_da_cat\\IMG_7143.MOV",
+        "type": "video",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "id": "3B93876C-C925-44E9-9103-9C9CD43A9606",
+        "path": "e:\\02_CHANNEL\\thu-nghiem\\edit-video\\Lifestyle Vlog\\1_INPUT_NHAN_SU\\cac_phan_da_cat\\IMG_7143.MOV",
+        "type": "video",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "id": "A16412D8-81B2-4320-82E1-E77F29D1D5FB",
+        "path": "e:\\02_CHANNEL\\thu-nghiem\\edit-video\\Lifestyle Vlog\\1_INPUT_NHAN_SU\\cac_phan_da_cat\\IMG_7146.MOV",
+        "type": "video",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "id": "761E4B26-1465-417B-9770-0D29FEF51E3F",
+        "path": "e:\\02_CHANNEL\\thu-nghiem\\edit-video\\Lifestyle Vlog\\1_INPUT_NHAN_SU\\cac_phan_da_cat\\IMG_7146.MOV",
+        "type": "video",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "id": "246003D5-6DA5-4145-8BAA-BA7AB2AB179D",
+        "path": "e:\\02_CHANNEL\\thu-nghiem\\edit-video\\Lifestyle Vlog\\1_INPUT_NHAN_SU\\cac_phan_da_cat\\IMG_7147.mov",
+        "type": "video",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "id": "35804409-58FB-4506-82DB-0380765FF300",
+        "path": "e:\\02_CHANNEL\\thu-nghiem\\edit-video\\Lifestyle Vlog\\1_INPUT_NHAN_SU\\cac_phan_da_cat\\IMG_7148.mov",
+        "type": "video",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "id": "BECD6239-883C-4616-9700-5DDFA79BA919",
+        "path": "e:\\02_CHANNEL\\thu-nghiem\\edit-video\\Lifestyle Vlog\\1_INPUT_NHAN_SU\\cac_phan_da_cat\\IMG_7149.MOV",
+        "type": "video",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "id": "1D0B167C-3F97-4250-AE45-96B2AEF9D11D",
+        "path": "e:\\02_CHANNEL\\thu-nghiem\\edit-video\\Lifestyle Vlog\\1_INPUT_NHAN_SU\\cac_phan_da_cat\\IMG_7149.MOV",
+        "type": "video",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "id": "029A891F-5378-4734-93CC-7EFDDAED05E0",
+        "path": "e:\\02_CHANNEL\\thu-nghiem\\edit-video\\Lifestyle Vlog\\1_INPUT_NHAN_SU\\cac_phan_da_cat\\IMG_7150.MOV",
+        "type": "video",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "id": "AB9911A4-6B87-4050-A253-D69185FF7CD7",
+        "path": "e:\\02_CHANNEL\\thu-nghiem\\edit-video\\Lifestyle Vlog\\1_INPUT_NHAN_SU\\cac_phan_da_cat\\IMG_7150.MOV",
+        "type": "video",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "id": "41AF7AB5-36AD-44B2-8EE2-E82D449E4CDB",
+        "path": "e:\\02_CHANNEL\\thu-nghiem\\edit-video\\Lifestyle Vlog\\1_INPUT_NHAN_SU\\cac_phan_da_cat\\IMG_7150.MOV",
+        "type": "video",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "id": "51A43C8A-A4F8-47D5-ADD0-143DBC08485B",
+        "path": "e:\\02_CHANNEL\\thu-nghiem\\edit-video\\Lifestyle Vlog\\1_INPUT_NHAN_SU\\cac_phan_da_cat\\IMG_7150.MOV",
+        "type": "video",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "id": "2B106A4E-ECB3-4D5D-9AFD-D5E36CB196BE",
+        "path": "e:\\02_CHANNEL\\thu-nghiem\\edit-video\\Lifestyle Vlog\\1_INPUT_NHAN_SU\\cac_phan_da_cat\\IMG_7150.MOV",
+        "type": "video",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "id": "ADC6DFCE-487C-4326-9FE8-2B4EFA3FB9DE",
+        "path": "e:\\02_CHANNEL\\thu-nghiem\\edit-video\\Lifestyle Vlog\\1_INPUT_NHAN_SU\\cac_phan_da_cat\\IMG_7150.MOV",
+        "type": "video",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "id": "CC5F1FFB-333C-449E-987C-02BB4A1FAFB5",
+        "path": "e:\\02_CHANNEL\\thu-nghiem\\edit-video\\Lifestyle Vlog\\1_INPUT_NHAN_SU\\cac_phan_da_cat\\IMG_7150.MOV",
+        "type": "video",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "id": "9FE46CE0-E622-4E19-8BFD-87F9841DCA1D",
+        "path": "e:\\02_CHANNEL\\thu-nghiem\\edit-video\\Lifestyle Vlog\\1_INPUT_NHAN_SU\\cac_phan_da_cat\\IMG_7150.MOV",
+        "type": "video",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "id": "ED285F84-B730-44C1-9DB1-CFDD7ED52387",
+        "path": "e:\\02_CHANNEL\\thu-nghiem\\edit-video\\Lifestyle Vlog\\1_INPUT_NHAN_SU\\cac_phan_da_cat\\IMG_7150.MOV",
+        "type": "video",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "id": "79D698AB-1440-4DD0-A90D-9C6E7CD6E63D",
+        "path": "e:\\02_CHANNEL\\thu-nghiem\\edit-video\\Lifestyle Vlog\\1_INPUT_NHAN_SU\\cac_phan_da_cat\\IMG_7150.MOV",
+        "type": "video",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "id": "9116B40B-96B3-40CD-B151-270C4205C467",
+        "path": "e:\\02_CHANNEL\\thu-nghiem\\edit-video\\Lifestyle Vlog\\1_INPUT_NHAN_SU\\cac_phan_da_cat\\IMG_7150.MOV",
+        "type": "video",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "id": "47E8C7BC-82AC-4D33-813A-72BCBD51C167",
+        "path": "e:\\02_CHANNEL\\thu-nghiem\\edit-video\\Lifestyle Vlog\\1_INPUT_NHAN_SU\\cac_phan_da_cat\\IMG_7150.MOV",
+        "type": "video",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "id": "F3366EF0-7192-4506-8309-77431C224035",
+        "path": "e:\\02_CHANNEL\\thu-nghiem\\edit-video\\Lifestyle Vlog\\1_INPUT_NHAN_SU\\cac_phan_da_cat\\IMG_7151.MOV",
+        "type": "video",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "id": "E2E326A1-5F2F-4395-A58E-69683DEA091D",
+        "path": "e:\\02_CHANNEL\\thu-nghiem\\edit-video\\Lifestyle Vlog\\1_INPUT_NHAN_SU\\cac_phan_da_cat\\IMG_7152.MOV",
+        "type": "video",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "id": "9380F7B8-1F01-42A9-A09D-7C3C9D1A7AD1",
+        "path": "e:\\02_CHANNEL\\thu-nghiem\\edit-video\\Lifestyle Vlog\\1_INPUT_NHAN_SU\\cac_phan_da_cat\\IMG_7151.MOV",
+        "type": "video",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "id": "F5218105-6DAB-42D8-A0C0-1CDF0EFBC9B6",
+        "path": "e:\\02_CHANNEL\\thu-nghiem\\edit-video\\Lifestyle Vlog\\1_INPUT_NHAN_SU\\cac_phan_da_cat\\IMG_7152.MOV",
+        "type": "video",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "id": "BF5F7C98-B2D6-4C49-BDB4-9212BB87D5CE",
+        "path": "e:\\02_CHANNEL\\thu-nghiem\\edit-video\\Lifestyle Vlog\\1_INPUT_NHAN_SU\\cac_phan_da_cat\\IMG_7153.MOV",
+        "type": "video",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "id": "B8549E75-1B4B-4526-A6EA-E4A9E14E9630",
+        "path": "e:\\02_CHANNEL\\thu-nghiem\\edit-video\\Lifestyle Vlog\\1_INPUT_NHAN_SU\\cac_phan_da_cat\\IMG_7153.MOV",
+        "type": "video",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "id": "C10B6C22-B706-45AE-8D6C-444AC7085573",
+        "path": "e:\\02_CHANNEL\\thu-nghiem\\edit-video\\Lifestyle Vlog\\1_INPUT_NHAN_SU\\cac_phan_da_cat\\IMG_7153.MOV",
+        "type": "video",
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "15624B15-BBCF-49D7-A267-BB91E0674445",
+        "content": "Ông ngoại 50 tuổi\nMột nách chăm 2 đứa cháu ngoại\nCon gái đầu gửi 1 đứa, con gái thứ 2 thêm 1 đứa\nChiều nào ông cũng...",
+        "type": "text",
+        "text_color": "#FFE600",
+        "border_color": "#000000"
+      },
+      {
+        "id": "7468B450-7722-401D-9321-E7C992FDFFED",
+        "content": "Ông ngoại 50 tuổi\nMột nách chăm 2 đứa cháu ngoại\nCon gái đầu gửi 1 đứa, con gái thứ 2 thêm 1 đứa\nChiều nào ông cũng...",
+        "type": "text",
+        "text_color": "#FFE600",
+        "border_color": "#000000"
+      },
+      {
+        "id": "9190C80B-082C-4527-8181-9906810B01DF",
+        "content": "Ông ngoại 50 tuổi\nMột nách chăm 2 đứa cháu ngoại\nCon gái đầu gửi 1 đứa, con gái thứ 2 thêm 1 đứa\nChiều nào ông cũng...",
+        "type": "text",
+        "text_color": "#FFE600",
+        "border_color": "#000000"
+      },
+      {
+        "id": "B3FD885A-F572-4A2B-8716-E6AF1A18C61B",
+        "content": "16:00\nBuổi chiều ở quê mình yên bình lắm",
+        "type": "text",
+        "text_color": "#FFE600",
+        "border_color": "#000000"
+      },
+      {
+        "id": "65B4F66D-C693-4648-B777-B871FEC9CC72",
+        "content": "16:00\nTranh thủ lúc cháu nhỏ vừa ngủ dậy",
+        "type": "text",
+        "text_color": "#FFE600",
+        "border_color": "#000000"
+      },
+      {
+        "id": "B869EE1C-31BE-41E9-97B6-0E912864A3FB",
+        "content": "Lấy ít ngô hạt đi cho đàn gà ăn trước",
+        "type": "text",
+        "text_color": "#FFE600",
+        "border_color": "#000000"
+      },
+      {
+        "id": "CDE329E3-5A81-418A-98F8-11C80EF9CFA4",
+        "content": "Đong đầy túi rùi ra chuồng gà thui",
+        "type": "text",
+        "text_color": "#FFE600",
+        "border_color": "#000000"
+      },
+      {
+        "id": "0616F248-D419-433E-897F-884EFDF2A090",
+        "content": "Ngõ nhỏ bên hông nhà ngày đi chục vòng 😂",
+        "type": "text",
+        "text_color": "#FFE600",
+        "border_color": "#000000"
+      },
+      {
+        "id": "DCED9E8B-746E-4CD0-8352-3EB0F3C27D7A",
+        "content": "Tập thể dục buổi chiều luôn",
+        "type": "text",
+        "text_color": "#FFE600",
+        "border_color": "#000000"
+      },
+      {
+        "id": "1785F822-8BC2-4910-A5DC-2182881CC9AC",
+        "content": "16:10\nĐàn gà quê nghe tiếng bước chân là ùa ra",
+        "type": "text",
+        "text_color": "#FFE600",
+        "border_color": "#000000"
+      },
+      {
+        "id": "0847B930-C8BF-43C0-93FC-F8A56853F0BF",
+        "content": "16:10\nRải ngô hạt cho gà ăn chắc thịt",
+        "type": "text",
+        "text_color": "#FFE600",
+        "border_color": "#000000"
+      },
+      {
+        "id": "3783DFFE-828F-4A19-AB65-A677CB07AFB9",
+        "content": "Nuôi gà vừa vui tuổi già",
+        "type": "text",
+        "text_color": "#FFE600",
+        "border_color": "#000000"
+      },
+      {
+        "id": "BB2453A1-C53B-4738-BB39-6E9BF2C06260",
+        "content": "Vừa có trứng sạch nấu cháo cho 2 cháu ngoại",
+        "type": "text",
+        "text_color": "#FFE600",
+        "border_color": "#000000"
+      },
+      {
+        "id": "0EC2AB23-EFD0-47D8-8B96-D53D5A2D0052",
+        "content": "16:20\nVề pha chậu nước ấm tắm cho anh cu nhỏ",
+        "type": "text",
+        "text_color": "#FFE600",
+        "border_color": "#000000"
+      },
+      {
+        "id": "24611F5B-9B3C-4241-A07D-3843F43756E4",
+        "content": "16:20\nBố mẹ tụi nhỏ đi làm từ sáng tới tối",
+        "type": "text",
+        "text_color": "#FFE600",
+        "border_color": "#000000"
+      },
+      {
+        "id": "705F1264-EE2D-47BC-9C29-4FB122CD50F4",
+        "content": "Ở nhà với ông bà ngoại quen hơi rùi",
+        "type": "text",
+        "text_color": "#FFE600",
+        "border_color": "#000000"
+      },
+      {
+        "id": "CB2B9355-DE4B-444A-B1E3-5A7A4572DAC2",
+        "content": "Ông tắm cho ngoan ko khóc nhè tí nào 😂",
+        "type": "text",
+        "text_color": "#FFE600",
+        "border_color": "#000000"
+      },
+      {
+        "id": "0ED69B2E-61CB-4602-8F46-9AA32112F859",
+        "content": "Tắm xong quấn khăn bông ấm áp",
+        "type": "text",
+        "text_color": "#FFE600",
+        "border_color": "#000000"
+      },
+      {
+        "id": "ACD39083-CAF3-4403-9B18-765B7CC43DE3",
+        "content": "Mát mẻ thơm tho rùi nha",
+        "type": "text",
+        "text_color": "#FFE600",
+        "border_color": "#000000"
+      },
+      {
+        "id": "8AC1CD8D-FC53-4A04-9081-9794AFB001BA",
+        "content": "16:35\nCho anh cu chơi ở phòng khách với bà",
+        "type": "text",
+        "text_color": "#FFE600",
+        "border_color": "#000000"
+      },
+      {
+        "id": "9159E6F0-8F62-4287-99AD-65C41A3A0E4D",
+        "content": "Ông chuẩn bị lên đường đi đón đứa thứ 2 😂",
+        "type": "text",
+        "text_color": "#FFE600",
+        "border_color": "#000000"
+      },
+      {
+        "id": "D99A56EC-7B69-429D-B43A-F742C7FB7774",
+        "content": "16:45\nTới trường mầm non đón cháu ngoại",
+        "type": "text",
+        "text_color": "#FFE600",
+        "border_color": "#000000"
+      },
+      {
+        "id": "79897875-CC04-4FFA-938A-27A3A8933889",
+        "content": "16:45\nGiờ tan tầm sân trường đông vui quá",
+        "type": "text",
+        "text_color": "#FFE600",
+        "border_color": "#000000"
+      },
+      {
+        "id": "57B63479-48F2-4897-8C4B-25E71C9742E9",
+        "content": "Đứng trước cửa lớp chờ cô giáo gọi tên",
+        "type": "text",
+        "text_color": "#FFE600",
+        "border_color": "#000000"
+      },
+      {
+        "id": "D756F721-B4FE-4C58-8393-A97B2C82FEBF",
+        "content": "Nhận đồ của cháu mang về",
+        "type": "text",
+        "text_color": "#FFE600",
+        "border_color": "#000000"
+      },
+      {
+        "id": "492B2FB3-CB65-4F29-AD76-839E7B21A797",
+        "content": "Vừa thấy ông ngoại là chạy ra nắm tay liền",
+        "type": "text",
+        "text_color": "#FFE600",
+        "border_color": "#000000"
+      },
+      {
+        "id": "7AD0B085-E3B1-4FF3-806C-5B3E6C689976",
+        "content": "Mình còn khoẻ đỡ đần con cháu được gì thì đỡ",
+        "type": "text",
+        "text_color": "#FFE600",
+        "border_color": "#000000"
+      },
+      {
+        "id": "B421F833-B357-4E25-8D35-C9EC08E1D2ED",
+        "content": "17:00\nHai ông cháu lên xe về nhà thui",
+        "type": "text",
+        "text_color": "#FFE600",
+        "border_color": "#000000"
+      },
+      {
+        "id": "9590B026-0DBA-400F-B4CC-EC633CDFCC46",
+        "content": "17:00\nĐường quê chiều mát rượi",
+        "type": "text",
+        "text_color": "#FFE600",
+        "border_color": "#000000"
+      },
+      {
+        "id": "FDC1F9B5-A292-4CCA-BDA6-61DE7641AB92",
+        "content": "Về tới nhà là phải bế vác vai mới chịu 😂",
+        "type": "text",
+        "text_color": "#FFE600",
+        "border_color": "#000000"
+      },
+      {
+        "id": "01D7C919-577B-4385-AC1F-34BB6DF64E9E",
+        "content": "Vào nhà nghỉ ngơi chờ ông nấu cháo nha",
+        "type": "text",
+        "text_color": "#FFE600",
+        "border_color": "#000000"
+      },
+      {
+        "id": "B2F7997F-680D-47BA-87B6-3A2A93E7047D",
+        "content": "17:15\nGiờ ông ngoại vào bếp làm bữa chiều cho cháu",
+        "type": "text",
+        "text_color": "#FFE600",
+        "border_color": "#000000"
+      },
+      {
+        "id": "D4816EB4-62A2-4071-91C4-413EF065419A",
+        "content": "17:15\nGỡ kỹ từng chút thịt cá cho vào cối",
+        "type": "text",
+        "text_color": "#FFE600",
+        "border_color": "#000000"
+      },
+      {
+        "id": "E23241C8-4272-46EB-8B32-1B7B0AC63548",
+        "content": "Rau xanh nấu mềm trên bếp",
+        "type": "text",
+        "text_color": "#FFE600",
+        "border_color": "#000000"
+      },
+      {
+        "id": "8E049608-D468-45E6-84D3-0E1802A38396",
+        "content": "Khuấy đều cho rau chín ngọt nước",
+        "type": "text",
+        "text_color": "#FFE600",
+        "border_color": "#000000"
+      },
+      {
+        "id": "84CBA7E7-1164-498C-8932-EDFBB96102D6",
+        "content": "Múc rau nấu chín vào cối xay cùng",
+        "type": "text",
+        "text_color": "#FFE600",
+        "border_color": "#000000"
+      },
+      {
+        "id": "58F2904D-0532-4A57-AE5A-6B6CC8B6D28C",
+        "content": "Đậy nắp cối chuẩn bị xay nhuyễn",
+        "type": "text",
+        "text_color": "#FFE600",
+        "border_color": "#000000"
+      },
+      {
+        "id": "1158E556-0066-4976-A128-59FED36735E1",
+        "content": "Có cái máy xay đa năng này ông ngoại nhàn hẳn",
+        "type": "text",
+        "text_color": "#FFE600",
+        "border_color": "#000000"
+      },
+      {
+        "id": "86355953-ACB6-4184-8867-8D9065B73A09",
+        "content": "Vặn nhẹ vài giây là rau thịt nhuyễn mịn",
+        "type": "text",
+        "text_color": "#FFE600",
+        "border_color": "#000000"
+      },
+      {
+        "id": "4F048750-EF85-4F9A-A13B-BDF1672FF896",
+        "content": "Lấy thêm cháo trắng nấu sẵn trong nồi cơm",
+        "type": "text",
+        "text_color": "#FFE600",
+        "border_color": "#000000"
+      },
+      {
+        "id": "0E822491-6386-453D-8233-2B68B9C6B178",
+        "content": "Đặt lên máy xay quyện đều một lượt nữa",
+        "type": "text",
+        "text_color": "#FFE600",
+        "border_color": "#000000"
+      },
+      {
+        "id": "90E27F3F-A26F-43DF-8AED-B7ED7662A928",
+        "content": "Đổ ra bát inox là có ngay bữa chiều nóng hổi",
+        "type": "text",
+        "text_color": "#FFE600",
+        "border_color": "#000000"
+      },
+      {
+        "id": "D82F0E67-D085-4420-AC2A-7BC11773B702",
+        "content": "Tự tay ông nấu vừa sạch vừa đủ chất",
+        "type": "text",
+        "text_color": "#FFE600",
+        "border_color": "#000000"
+      },
+      {
+        "id": "DFBC3B6B-CF54-4F06-A01A-07D94EBCE1CC",
+        "content": "17:45\nCho cháu ngồi xe đẩy ra trước nhà hóng mát",
+        "type": "text",
+        "text_color": "#FFE600",
+        "border_color": "#000000"
+      },
+      {
+        "id": "5E0FC09E-FD74-42C5-9DD5-D6EAF8BE29EC",
+        "content": "17:45\nTrộm vía ông ngoại nấu hợp khẩu vị 😂",
+        "type": "text",
+        "text_color": "#FFE600",
+        "border_color": "#000000"
+      },
+      {
+        "id": "EC2E8733-2A29-43C2-8483-AC61A8ED0913",
+        "content": "Ngồi xe đẩy ngoan ngoãn chờ ông đút",
+        "type": "text",
+        "text_color": "#FFE600",
+        "border_color": "#000000"
+      },
+      {
+        "id": "11A73EC1-DDFB-4A92-AAD0-7A39F0969ACE",
+        "content": "Đút thìa nào là hết veo thìa đó",
+        "type": "text",
+        "text_color": "#FFE600",
+        "border_color": "#000000"
+      },
+      {
+        "id": "E707B747-1C5A-4EEA-AA0C-607904A6A9CF",
+        "content": "18:00\nBà ngoại ra sân phụ đút cho bé thứ 2",
+        "type": "text",
+        "text_color": "#FFE600",
+        "border_color": "#000000"
+      },
+      {
+        "id": "9136B05B-A0AC-4C97-83C1-CB442F4D6F73",
+        "content": "\"Ngon không con?\"\nTrộm vía gật đầu lia lịa",
+        "type": "text",
+        "text_color": "#FFE600",
+        "border_color": "#000000"
+      },
+      {
+        "id": "C0821676-2DC2-4655-BA2F-33B689DD57F4",
+        "content": "Ai hỏi sao nghỉ hưu rồi vẫn bận thế...\nThì đây là niềm vui của...",
+        "type": "text",
+        "text_color": "#FFE600",
+        "border_color": "#000000"
+      }
+    ],
+    "audios": []
+  },
+  "tracks": [
+    {
+      "id": "908BF9B1-DBCF-4CF8-B00C-809E417C3CF9",
+      "type": "video",
+      "segments": [
+        {
+          "id": "6A990A18-1A2F-4254-8BFF-91634295F9B2",
+          "material_id": "6EC11130-6AB1-4ECC-B0B9-94BD61D02153",
+          "source_timerange": {
+            "start": 5200000,
+            "duration": 800000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 800000
+          },
+          "volume": 0.126
+        },
+        {
+          "id": "0308D25F-4C4F-4399-918E-24E55E06FB28",
+          "material_id": "261E59D3-C542-437C-8AD5-85CC9EAB7464",
+          "source_timerange": {
+            "start": 3800000,
+            "duration": 750000
+          },
+          "target_timerange": {
+            "start": 800000,
+            "duration": 750000
+          },
+          "volume": 0.126
+        },
+        {
+          "id": "9D61B973-5C96-4BB7-A7ED-885D99BA5774",
+          "material_id": "EE316B59-F52A-467A-A510-9FBEBE534646",
+          "source_timerange": {
+            "start": 3800000,
+            "duration": 800000
+          },
+          "target_timerange": {
+            "start": 1550000,
+            "duration": 800000
+          },
+          "volume": 0.126
+        },
+        {
+          "id": "95338A87-BF84-4E2F-8D3F-3112DAB2CC0A",
+          "material_id": "DC175045-3F25-4D0E-A094-986398024276",
+          "source_timerange": {
+            "start": 1500000,
+            "duration": 1500000
+          },
+          "target_timerange": {
+            "start": 2350000,
+            "duration": 1500000
+          },
+          "volume": 0.126
+        },
+        {
+          "id": "8BF3DA89-1ABC-4C85-BFF2-E88749276AFA",
+          "material_id": "DE666AA8-894B-492D-800E-2507FBF05F55",
+          "source_timerange": {
+            "start": 2200000,
+            "duration": 1500000
+          },
+          "target_timerange": {
+            "start": 3850000,
+            "duration": 1500000
+          },
+          "volume": 0.126
+        },
+        {
+          "id": "D3795398-695F-40C1-8F0D-085174ADBCE3",
+          "material_id": "2D610028-D5DE-4953-834A-F548BA94865E",
+          "source_timerange": {
+            "start": 6500000,
+            "duration": 1500000
+          },
+          "target_timerange": {
+            "start": 5350000,
+            "duration": 1500000
+          },
+          "volume": 0.126
+        },
+        {
+          "id": "27D9F25E-1ADF-42DC-B927-4A1690AD30C5",
+          "material_id": "C4FB5DE4-5B3C-499F-A00A-A9F0862FAC30",
+          "source_timerange": {
+            "start": 10800000,
+            "duration": 1400000
+          },
+          "target_timerange": {
+            "start": 6850000,
+            "duration": 1400000
+          },
+          "volume": 0.126
+        },
+        {
+          "id": "ECEC3738-2CC7-457D-8824-7B4422D716F1",
+          "material_id": "8A66F592-6E30-4469-8410-BA0880D68D09",
+          "source_timerange": {
+            "start": 1000000,
+            "duration": 1500000
+          },
+          "target_timerange": {
+            "start": 8250000,
+            "duration": 1500000
+          },
+          "volume": 0.126
+        },
+        {
+          "id": "FD493EB6-C4B4-4F18-B148-3144A0E1E1EC",
+          "material_id": "FFF424A1-E0C6-4A3E-A2FB-166A8DCD6FA7",
+          "source_timerange": {
+            "start": 3500000,
+            "duration": 1500000
+          },
+          "target_timerange": {
+            "start": 9750000,
+            "duration": 1500000
+          },
+          "volume": 0.126
+        },
+        {
+          "id": "43F8EF04-5141-48F7-B739-828A428E1848",
+          "material_id": "736BFC17-03FF-4C0E-B74C-EC171DFCE87F",
+          "source_timerange": {
+            "start": 2000000,
+            "duration": 1600000
+          },
+          "target_timerange": {
+            "start": 11250000,
+            "duration": 1600000
+          },
+          "volume": 0.126
+        },
+        {
+          "id": "503E3069-0961-4C68-B3F1-E95B592D0894",
+          "material_id": "52A6E51F-79A2-4994-A613-8D1FED3A9AAA",
+          "source_timerange": {
+            "start": 1500000,
+            "duration": 1500000
+          },
+          "target_timerange": {
+            "start": 12850000,
+            "duration": 1500000
+          },
+          "volume": 0.126
+        },
+        {
+          "id": "19C6B356-EBB0-4626-BC54-A932052200EA",
+          "material_id": "3815BA6F-9FA8-4625-B8F5-C75F4AFCBEA4",
+          "source_timerange": {
+            "start": 5200000,
+            "duration": 1500000
+          },
+          "target_timerange": {
+            "start": 14350000,
+            "duration": 1500000
+          },
+          "volume": 0.126
+        },
+        {
+          "id": "126DBE09-5347-44B1-AEAC-0E63BED86E42",
+          "material_id": "8630F828-59CE-44D3-8C39-D63A43F20D7A",
+          "source_timerange": {
+            "start": 4500000,
+            "duration": 1500000
+          },
+          "target_timerange": {
+            "start": 15850000,
+            "duration": 1500000
+          },
+          "volume": 0.126
+        },
+        {
+          "id": "3DC3C64A-2E55-474D-869A-C60AF2A9B66D",
+          "material_id": "28B8C9EC-9B2E-4F34-B0EC-9B044102F600",
+          "source_timerange": {
+            "start": 3500000,
+            "duration": 1500000
+          },
+          "target_timerange": {
+            "start": 17350000,
+            "duration": 1500000
+          },
+          "volume": 0.126
+        },
+        {
+          "id": "C3235682-6FF5-4383-9844-779A689BBACC",
+          "material_id": "C98D5CC9-3E94-4BE7-A725-2EAA86E1F1D9",
+          "source_timerange": {
+            "start": 15500000,
+            "duration": 1600000
+          },
+          "target_timerange": {
+            "start": 18850000,
+            "duration": 1600000
+          },
+          "volume": 0.126
+        },
+        {
+          "id": "75920D0D-3EAD-45AE-A810-F6151CD3B46A",
+          "material_id": "BB35A974-9111-4221-936E-A285702AB197",
+          "source_timerange": {
+            "start": 1200000,
+            "duration": 1600000
+          },
+          "target_timerange": {
+            "start": 20450000,
+            "duration": 1600000
+          },
+          "volume": 0.126
+        },
+        {
+          "id": "8E81BF4E-B456-44D5-9D21-F7771D17C900",
+          "material_id": "372D2CF9-FFAE-44BD-9F88-9D935679338C",
+          "source_timerange": {
+            "start": 5500000,
+            "duration": 1600000
+          },
+          "target_timerange": {
+            "start": 22050000,
+            "duration": 1600000
+          },
+          "volume": 0.126
+        },
+        {
+          "id": "6B18D45C-2244-4CE1-8161-661B143177EF",
+          "material_id": "0CE643A1-23B4-4548-8EAC-FF810D679BDA",
+          "source_timerange": {
+            "start": 4200000,
+            "duration": 1600000
+          },
+          "target_timerange": {
+            "start": 23650000,
+            "duration": 1600000
+          },
+          "volume": 0.126
+        },
+        {
+          "id": "6C7C9019-E640-41BF-AA10-7D4B6C2D0D44",
+          "material_id": "DEFC73DF-28C2-4528-BAF1-8E57AA487926",
+          "source_timerange": {
+            "start": 6800000,
+            "duration": 1600000
+          },
+          "target_timerange": {
+            "start": 25250000,
+            "duration": 1600000
+          },
+          "volume": 0.126
+        },
+        {
+          "id": "9B7522A2-1B6B-4140-9B67-023BF308CD97",
+          "material_id": "9A1B29E0-1326-4717-AF46-8F44E45E7748",
+          "source_timerange": {
+            "start": 12200000,
+            "duration": 1600000
+          },
+          "target_timerange": {
+            "start": 26850000,
+            "duration": 1600000
+          },
+          "volume": 0.126
+        },
+        {
+          "id": "1B8A67B3-04D1-4421-B6AB-9D6FA2327E81",
+          "material_id": "07A383A5-1BA8-4505-90EC-4B0F1F9BF043",
+          "source_timerange": {
+            "start": 20000000,
+            "duration": 1600000
+          },
+          "target_timerange": {
+            "start": 28450000,
+            "duration": 1600000
+          },
+          "volume": 0.126
+        },
+        {
+          "id": "12C2858C-2281-4ADA-95CD-5706C95617C1",
+          "material_id": "813845EE-8CC2-432A-9584-775C24997A0C",
+          "source_timerange": {
+            "start": 1000000,
+            "duration": 1600000
+          },
+          "target_timerange": {
+            "start": 30050000,
+            "duration": 1600000
+          },
+          "volume": 0.126
+        },
+        {
+          "id": "C9CE86DF-A09F-4337-85A9-8D5A743A6122",
+          "material_id": "04D92720-9A6D-4315-8648-341E64725657",
+          "source_timerange": {
+            "start": 3400000,
+            "duration": 1600000
+          },
+          "target_timerange": {
+            "start": 31650000,
+            "duration": 1600000
+          },
+          "volume": 0.126
+        },
+        {
+          "id": "044156D9-F60C-4955-8491-50A1D73E83D4",
+          "material_id": "A7125C37-407D-4D75-AF80-CDA18CD8297D",
+          "source_timerange": {
+            "start": 1500000,
+            "duration": 1600000
+          },
+          "target_timerange": {
+            "start": 33250000,
+            "duration": 1600000
+          },
+          "volume": 0.126
+        },
+        {
+          "id": "065693BC-355E-498B-8192-A14C30FD7B2B",
+          "material_id": "3B93876C-C925-44E9-9103-9C9CD43A9606",
+          "source_timerange": {
+            "start": 7200000,
+            "duration": 1600000
+          },
+          "target_timerange": {
+            "start": 34850000,
+            "duration": 1600000
+          },
+          "volume": 0.126
+        },
+        {
+          "id": "085BB63E-F5AE-496C-87AA-CE7619BCDD14",
+          "material_id": "A16412D8-81B2-4320-82E1-E77F29D1D5FB",
+          "source_timerange": {
+            "start": 1200000,
+            "duration": 1700000
+          },
+          "target_timerange": {
+            "start": 36450000,
+            "duration": 1700000
+          },
+          "volume": 0.126
+        },
+        {
+          "id": "589C0FB1-E408-4B8B-9D7D-C74CA2279720",
+          "material_id": "761E4B26-1465-417B-9770-0D29FEF51E3F",
+          "source_timerange": {
+            "start": 5000000,
+            "duration": 1800000
+          },
+          "target_timerange": {
+            "start": 38150000,
+            "duration": 1800000
+          },
+          "volume": 0.126
+        },
+        {
+          "id": "580304FD-FDC9-40CD-A111-C89CB0FE8400",
+          "material_id": "246003D5-6DA5-4145-8BAA-BA7AB2AB179D",
+          "source_timerange": {
+            "start": 2500000,
+            "duration": 1600000
+          },
+          "target_timerange": {
+            "start": 39950000,
+            "duration": 1600000
+          },
+          "volume": 0.126
+        },
+        {
+          "id": "264D52C7-CA45-41A0-A3D6-D6475714F19A",
+          "material_id": "35804409-58FB-4506-82DB-0380765FF300",
+          "source_timerange": {
+            "start": 1500000,
+            "duration": 1600000
+          },
+          "target_timerange": {
+            "start": 41550000,
+            "duration": 1600000
+          },
+          "volume": 0.126
+        },
+        {
+          "id": "FA55B4FA-85AD-4D93-89DE-7A7A96C0BF47",
+          "material_id": "BECD6239-883C-4616-9700-5DDFA79BA919",
+          "source_timerange": {
+            "start": 1200000,
+            "duration": 1600000
+          },
+          "target_timerange": {
+            "start": 43150000,
+            "duration": 1600000
+          },
+          "volume": 0.126
+        },
+        {
+          "id": "515E0BDE-BC2F-484D-A327-02D3C4B27521",
+          "material_id": "1D0B167C-3F97-4250-AE45-96B2AEF9D11D",
+          "source_timerange": {
+            "start": 3500000,
+            "duration": 1600000
+          },
+          "target_timerange": {
+            "start": 44750000,
+            "duration": 1600000
+          },
+          "volume": 0.126
+        },
+        {
+          "id": "1E59A884-42AB-4590-B804-1F71F2547A5D",
+          "material_id": "029A891F-5378-4734-93CC-7EFDDAED05E0",
+          "source_timerange": {
+            "start": 500000,
+            "duration": 1500000
+          },
+          "target_timerange": {
+            "start": 46350000,
+            "duration": 1500000
+          },
+          "volume": 0.126
+        },
+        {
+          "id": "99456D6E-5921-4FEC-9BD6-CAF678D2CA73",
+          "material_id": "AB9911A4-6B87-4050-A253-D69185FF7CD7",
+          "source_timerange": {
+            "start": 10500000,
+            "duration": 1600000
+          },
+          "target_timerange": {
+            "start": 47850000,
+            "duration": 1600000
+          },
+          "volume": 0.126
+        },
+        {
+          "id": "9E46856E-AE0A-4DD5-ACDF-90E82A6A55CB",
+          "material_id": "41AF7AB5-36AD-44B2-8EE2-E82D449E4CDB",
+          "source_timerange": {
+            "start": 33000000,
+            "duration": 1500000
+          },
+          "target_timerange": {
+            "start": 49450000,
+            "duration": 1500000
+          },
+          "volume": 0.126
+        },
+        {
+          "id": "411BBD92-0062-4C96-91D2-E95A42555E56",
+          "material_id": "51A43C8A-A4F8-47D5-ADD0-143DBC08485B",
+          "source_timerange": {
+            "start": 66500000,
+            "duration": 1500000
+          },
+          "target_timerange": {
+            "start": 50950000,
+            "duration": 1500000
+          },
+          "volume": 0.126
+        },
+        {
+          "id": "04D9652D-1F5E-401E-BAEC-136B59D0831E",
+          "material_id": "2B106A4E-ECB3-4D5D-9AFD-D5E36CB196BE",
+          "source_timerange": {
+            "start": 100000000,
+            "duration": 1600000
+          },
+          "target_timerange": {
+            "start": 52450000,
+            "duration": 1600000
+          },
+          "volume": 0.126
+        },
+        {
+          "id": "6A365DA9-8080-4C1A-8312-44A58B25F21B",
+          "material_id": "ADC6DFCE-487C-4326-9FE8-2B4EFA3FB9DE",
+          "source_timerange": {
+            "start": 122500000,
+            "duration": 1500000
+          },
+          "target_timerange": {
+            "start": 54050000,
+            "duration": 1500000
+          },
+          "volume": 0.126
+        },
+        {
+          "id": "CB98477D-111F-4F58-BAE5-932530B58795",
+          "material_id": "CC5F1FFB-333C-449E-987C-02BB4A1FAFB5",
+          "source_timerange": {
+            "start": 145000000,
+            "duration": 1600000
+          },
+          "target_timerange": {
+            "start": 55550000,
+            "duration": 1600000
+          },
+          "volume": 0.126
+        },
+        {
+          "id": "CFF33C9A-79C3-4A29-965B-CCCBEA9FFB8B",
+          "material_id": "9FE46CE0-E622-4E19-8BFD-87F9841DCA1D",
+          "source_timerange": {
+            "start": 156000000,
+            "duration": 1600000
+          },
+          "target_timerange": {
+            "start": 57150000,
+            "duration": 1600000
+          },
+          "volume": 0.126
+        },
+        {
+          "id": "23FAAF1A-E6B3-4D35-888D-0B1CFAFA55FC",
+          "material_id": "ED285F84-B730-44C1-9DB1-CFDD7ED52387",
+          "source_timerange": {
+            "start": 190000000,
+            "duration": 1600000
+          },
+          "target_timerange": {
+            "start": 58750000,
+            "duration": 1600000
+          },
+          "volume": 0.126
+        },
+        {
+          "id": "6081E615-569F-41BC-B712-3C933CFF3FA7",
+          "material_id": "79D698AB-1440-4DD0-A90D-9C6E7CD6E63D",
+          "source_timerange": {
+            "start": 223500000,
+            "duration": 1500000
+          },
+          "target_timerange": {
+            "start": 60350000,
+            "duration": 1500000
+          },
+          "volume": 0.126
+        },
+        {
+          "id": "17DD3AFC-AD66-4AC7-8B7B-E167D992206A",
+          "material_id": "9116B40B-96B3-40CD-B151-270C4205C467",
+          "source_timerange": {
+            "start": 246000000,
+            "duration": 1600000
+          },
+          "target_timerange": {
+            "start": 61850000,
+            "duration": 1600000
+          },
+          "volume": 0.126
+        },
+        {
+          "id": "A5523CA7-3414-4987-A0BB-18BF145D6D00",
+          "material_id": "47E8C7BC-82AC-4D33-813A-72BCBD51C167",
+          "source_timerange": {
+            "start": 257000000,
+            "duration": 1600000
+          },
+          "target_timerange": {
+            "start": 63450000,
+            "duration": 1600000
+          },
+          "volume": 0.126
+        },
+        {
+          "id": "71A6A9B3-38AE-419D-8D7A-63EE9B2886A7",
+          "material_id": "F3366EF0-7192-4506-8309-77431C224035",
+          "source_timerange": {
+            "start": 1200000,
+            "duration": 1700000
+          },
+          "target_timerange": {
+            "start": 65050000,
+            "duration": 1700000
+          },
+          "volume": 0.126
+        },
+        {
+          "id": "930F4E51-77DF-4457-AA6E-D0E1E1110343",
+          "material_id": "E2E326A1-5F2F-4395-A58E-69683DEA091D",
+          "source_timerange": {
+            "start": 1000000,
+            "duration": 1800000
+          },
+          "target_timerange": {
+            "start": 66750000,
+            "duration": 1800000
+          },
+          "volume": 0.126
+        },
+        {
+          "id": "2504C093-2D0C-470D-A376-434E84733D93",
+          "material_id": "9380F7B8-1F01-42A9-A09D-7C3C9D1A7AD1",
+          "source_timerange": {
+            "start": 4500000,
+            "duration": 1600000
+          },
+          "target_timerange": {
+            "start": 68550000,
+            "duration": 1600000
+          },
+          "volume": 0.126
+        },
+        {
+          "id": "A552ED8C-FAD6-4437-87C7-816D064AC7E3",
+          "material_id": "F5218105-6DAB-42D8-A0C0-1CDF0EFBC9B6",
+          "source_timerange": {
+            "start": 3500000,
+            "duration": 1900000
+          },
+          "target_timerange": {
+            "start": 70150000,
+            "duration": 1900000
+          },
+          "volume": 0.126
+        },
+        {
+          "id": "B74FE877-5416-4912-BAAE-362A44A7D902",
+          "material_id": "BF5F7C98-B2D6-4C49-BDB4-9212BB87D5CE",
+          "source_timerange": {
+            "start": 800000,
+            "duration": 1500000
+          },
+          "target_timerange": {
+            "start": 72050000,
+            "duration": 1500000
+          },
+          "volume": 0.2
+        },
+        {
+          "id": "90B7BA45-A0AE-40B7-954E-1F74FFCCAED1",
+          "material_id": "B8549E75-1B4B-4526-A6EA-E4A9E14E9630",
+          "source_timerange": {
+            "start": 2300000,
+            "duration": 1400000
+          },
+          "target_timerange": {
+            "start": 73550000,
+            "duration": 1400000
+          },
+          "volume": 0.316
+        },
+        {
+          "id": "5804B3E0-61A5-4F57-BAD5-E546F108A73F",
+          "material_id": "C10B6C22-B706-45AE-8D6C-444AC7085573",
+          "source_timerange": {
+            "start": 3700000,
+            "duration": 1500000
+          },
+          "target_timerange": {
+            "start": 74950000,
+            "duration": 1500000
+          },
+          "volume": 0.2
+        }
+      ]
+    },
+    {
+      "id": "665A3D36-9698-4889-8BC1-80690ED7EEFD",
+      "type": "text",
+      "segments": [
+        {
+          "id": "58916A7F-9F8F-4E26-96DA-42305EB1FA63",
+          "material_id": "15624B15-BBCF-49D7-A267-BB91E0674445",
+          "target_timerange": {
+            "start": 0,
+            "duration": 800000
+          }
+        },
+        {
+          "id": "F7CC4BF0-64B9-4DF4-B7BD-08607DF7B65D",
+          "material_id": "7468B450-7722-401D-9321-E7C992FDFFED",
+          "target_timerange": {
+            "start": 800000,
+            "duration": 750000
+          }
+        },
+        {
+          "id": "BD583D9F-ADAB-4BFD-9F1F-7A2C0E2F9CBC",
+          "material_id": "9190C80B-082C-4527-8181-9906810B01DF",
+          "target_timerange": {
+            "start": 1550000,
+            "duration": 800000
+          }
+        },
+        {
+          "id": "322FBE61-D987-4EE2-84D4-3CA63BFB19C4",
+          "material_id": "B3FD885A-F572-4A2B-8716-E6AF1A18C61B",
+          "target_timerange": {
+            "start": 2350000,
+            "duration": 1500000
+          }
+        },
+        {
+          "id": "291E9080-C8B2-4227-B165-702EEA29589F",
+          "material_id": "65B4F66D-C693-4648-B777-B871FEC9CC72",
+          "target_timerange": {
+            "start": 3850000,
+            "duration": 1500000
+          }
+        },
+        {
+          "id": "C8EDC029-6EE5-4822-ADF2-825D19E76850",
+          "material_id": "B869EE1C-31BE-41E9-97B6-0E912864A3FB",
+          "target_timerange": {
+            "start": 5350000,
+            "duration": 1500000
+          }
+        },
+        {
+          "id": "DFE7AAC4-60B8-4EA1-8265-ED9E87E74009",
+          "material_id": "CDE329E3-5A81-418A-98F8-11C80EF9CFA4",
+          "target_timerange": {
+            "start": 6850000,
+            "duration": 1400000
+          }
+        },
+        {
+          "id": "21D48EB5-4288-463B-B938-7B894625C2AC",
+          "material_id": "0616F248-D419-433E-897F-884EFDF2A090",
+          "target_timerange": {
+            "start": 8250000,
+            "duration": 1500000
+          }
+        },
+        {
+          "id": "194BF810-99CD-492D-AB5F-3A3E122B182B",
+          "material_id": "DCED9E8B-746E-4CD0-8352-3EB0F3C27D7A",
+          "target_timerange": {
+            "start": 9750000,
+            "duration": 1500000
+          }
+        },
+        {
+          "id": "4CC12EA3-DFDE-4022-8B17-3B9AF32535A8",
+          "material_id": "1785F822-8BC2-4910-A5DC-2182881CC9AC",
+          "target_timerange": {
+            "start": 11250000,
+            "duration": 1600000
+          }
+        },
+        {
+          "id": "8987E2D3-0555-406D-9F87-9D1A51B63F35",
+          "material_id": "0847B930-C8BF-43C0-93FC-F8A56853F0BF",
+          "target_timerange": {
+            "start": 12850000,
+            "duration": 1500000
+          }
+        },
+        {
+          "id": "6BD34971-2FE6-407A-9C2A-FBAF86153C63",
+          "material_id": "3783DFFE-828F-4A19-AB65-A677CB07AFB9",
+          "target_timerange": {
+            "start": 14350000,
+            "duration": 1500000
+          }
+        },
+        {
+          "id": "81DB30D3-8247-4B9E-A463-CF3C546CC053",
+          "material_id": "BB2453A1-C53B-4738-BB39-6E9BF2C06260",
+          "target_timerange": {
+            "start": 15850000,
+            "duration": 1500000
+          }
+        },
+        {
+          "id": "77F700BC-9CDC-434D-B00A-C6AB16D3B6E9",
+          "material_id": "0EC2AB23-EFD0-47D8-8B96-D53D5A2D0052",
+          "target_timerange": {
+            "start": 17350000,
+            "duration": 1500000
+          }
+        },
+        {
+          "id": "CCD08FDA-6514-4EFA-BEF9-2D316F3543C1",
+          "material_id": "24611F5B-9B3C-4241-A07D-3843F43756E4",
+          "target_timerange": {
+            "start": 18850000,
+            "duration": 1600000
+          }
+        },
+        {
+          "id": "892C3998-96DA-43B9-9386-8F8D5415B4A7",
+          "material_id": "705F1264-EE2D-47BC-9C29-4FB122CD50F4",
+          "target_timerange": {
+            "start": 20450000,
+            "duration": 1600000
+          }
+        },
+        {
+          "id": "9F9EF3C1-42C8-4BEB-A261-630D6962D0F0",
+          "material_id": "CB2B9355-DE4B-444A-B1E3-5A7A4572DAC2",
+          "target_timerange": {
+            "start": 22050000,
+            "duration": 1600000
+          }
+        },
+        {
+          "id": "DB97E8B9-E00C-40AD-B782-A4DB2ED03A37",
+          "material_id": "0ED69B2E-61CB-4602-8F46-9AA32112F859",
+          "target_timerange": {
+            "start": 23650000,
+            "duration": 1600000
+          }
+        },
+        {
+          "id": "42732482-EA86-4837-A8CA-6A4DDD27EE7A",
+          "material_id": "ACD39083-CAF3-4403-9B18-765B7CC43DE3",
+          "target_timerange": {
+            "start": 25250000,
+            "duration": 1600000
+          }
+        },
+        {
+          "id": "C5A400BA-3B53-4810-B610-EDD54F93BE99",
+          "material_id": "8AC1CD8D-FC53-4A04-9081-9794AFB001BA",
+          "target_timerange": {
+            "start": 26850000,
+            "duration": 1600000
+          }
+        },
+        {
+          "id": "AF27A2F9-2420-4C07-B0C3-D2EC6081938D",
+          "material_id": "9159E6F0-8F62-4287-99AD-65C41A3A0E4D",
+          "target_timerange": {
+            "start": 28450000,
+            "duration": 1600000
+          }
+        },
+        {
+          "id": "7665377B-626A-4A29-8F8F-CFEE6202CCF0",
+          "material_id": "D99A56EC-7B69-429D-B43A-F742C7FB7774",
+          "target_timerange": {
+            "start": 30050000,
+            "duration": 1600000
+          }
+        },
+        {
+          "id": "621E7183-FAE1-4219-B9A4-9DE4061FFF88",
+          "material_id": "79897875-CC04-4FFA-938A-27A3A8933889",
+          "target_timerange": {
+            "start": 31650000,
+            "duration": 1600000
+          }
+        },
+        {
+          "id": "120797A0-A100-49DA-BC6A-FA9C4D3A5C6A",
+          "material_id": "57B63479-48F2-4897-8C4B-25E71C9742E9",
+          "target_timerange": {
+            "start": 33250000,
+            "duration": 1600000
+          }
+        },
+        {
+          "id": "414C0CBA-DDE4-42ED-8C94-8D3E67E7AE7D",
+          "material_id": "D756F721-B4FE-4C58-8393-A97B2C82FEBF",
+          "target_timerange": {
+            "start": 34850000,
+            "duration": 1600000
+          }
+        },
+        {
+          "id": "DC01EC51-F85C-42FF-AEF3-BA805859C840",
+          "material_id": "492B2FB3-CB65-4F29-AD76-839E7B21A797",
+          "target_timerange": {
+            "start": 36450000,
+            "duration": 1700000
+          }
+        },
+        {
+          "id": "EC476F91-CE34-49DB-BF0E-B81EB2A8A8DC",
+          "material_id": "7AD0B085-E3B1-4FF3-806C-5B3E6C689976",
+          "target_timerange": {
+            "start": 38150000,
+            "duration": 1800000
+          }
+        },
+        {
+          "id": "259002D8-0B90-4D8F-8D2C-0B364965BCEF",
+          "material_id": "B421F833-B357-4E25-8D35-C9EC08E1D2ED",
+          "target_timerange": {
+            "start": 39950000,
+            "duration": 1600000
+          }
+        },
+        {
+          "id": "65CE0F26-A110-4558-911A-1071B012BF27",
+          "material_id": "9590B026-0DBA-400F-B4CC-EC633CDFCC46",
+          "target_timerange": {
+            "start": 41550000,
+            "duration": 1600000
+          }
+        },
+        {
+          "id": "AE34A137-F54E-410F-9BB8-459CFBE2AAE4",
+          "material_id": "FDC1F9B5-A292-4CCA-BDA6-61DE7641AB92",
+          "target_timerange": {
+            "start": 43150000,
+            "duration": 1600000
+          }
+        },
+        {
+          "id": "CFDF708A-C92F-4869-9830-DE76DA71F16E",
+          "material_id": "01D7C919-577B-4385-AC1F-34BB6DF64E9E",
+          "target_timerange": {
+            "start": 44750000,
+            "duration": 1600000
+          }
+        },
+        {
+          "id": "3AFACD37-2FE6-4CB8-979F-037ECE4C0A7C",
+          "material_id": "B2F7997F-680D-47BA-87B6-3A2A93E7047D",
+          "target_timerange": {
+            "start": 46350000,
+            "duration": 1500000
+          }
+        },
+        {
+          "id": "85CBCE04-7D4E-45F2-8D10-818E388A2340",
+          "material_id": "D4816EB4-62A2-4071-91C4-413EF065419A",
+          "target_timerange": {
+            "start": 47850000,
+            "duration": 1600000
+          }
+        },
+        {
+          "id": "7B8EB9AC-27E1-4AA1-BCA9-1589B14C58C7",
+          "material_id": "E23241C8-4272-46EB-8B32-1B7B0AC63548",
+          "target_timerange": {
+            "start": 49450000,
+            "duration": 1500000
+          }
+        },
+        {
+          "id": "747CE364-EF2C-4CDB-8EFF-543DED7F1440",
+          "material_id": "8E049608-D468-45E6-84D3-0E1802A38396",
+          "target_timerange": {
+            "start": 50950000,
+            "duration": 1500000
+          }
+        },
+        {
+          "id": "6712C7C5-8552-44D7-98F0-24034DAB0880",
+          "material_id": "84CBA7E7-1164-498C-8932-EDFBB96102D6",
+          "target_timerange": {
+            "start": 52450000,
+            "duration": 1600000
+          }
+        },
+        {
+          "id": "4795895D-74A0-4653-9834-8B85111D0BE9",
+          "material_id": "58F2904D-0532-4A57-AE5A-6B6CC8B6D28C",
+          "target_timerange": {
+            "start": 54050000,
+            "duration": 1500000
+          }
+        },
+        {
+          "id": "897769A0-07AC-45D9-9F3E-0D56AD9195EB",
+          "material_id": "1158E556-0066-4976-A128-59FED36735E1",
+          "target_timerange": {
+            "start": 55550000,
+            "duration": 1600000
+          }
+        },
+        {
+          "id": "E8C1FA3D-7FDB-4BB5-8D75-6413A0217CEC",
+          "material_id": "86355953-ACB6-4184-8867-8D9065B73A09",
+          "target_timerange": {
+            "start": 57150000,
+            "duration": 1600000
+          }
+        },
+        {
+          "id": "8862F92F-C1DA-44C9-B276-459E1773DB38",
+          "material_id": "4F048750-EF85-4F9A-A13B-BDF1672FF896",
+          "target_timerange": {
+            "start": 58750000,
+            "duration": 1600000
+          }
+        },
+        {
+          "id": "B7A50B70-4218-465D-B429-509E5D12B85B",
+          "material_id": "0E822491-6386-453D-8233-2B68B9C6B178",
+          "target_timerange": {
+            "start": 60350000,
+            "duration": 1500000
+          }
+        },
+        {
+          "id": "0E751F5B-8C28-4A97-973D-28E43869C4E4",
+          "material_id": "90E27F3F-A26F-43DF-8AED-B7ED7662A928",
+          "target_timerange": {
+            "start": 61850000,
+            "duration": 1600000
+          }
+        },
+        {
+          "id": "19EF3E65-787A-443B-BD2F-F29876902ADD",
+          "material_id": "D82F0E67-D085-4420-AC2A-7BC11773B702",
+          "target_timerange": {
+            "start": 63450000,
+            "duration": 1600000
+          }
+        },
+        {
+          "id": "A0B3EEF5-41D4-4AA4-A3FA-65705194EB0D",
+          "material_id": "DFBC3B6B-CF54-4F06-A01A-07D94EBCE1CC",
+          "target_timerange": {
+            "start": 65050000,
+            "duration": 1700000
+          }
+        },
+        {
+          "id": "7D32C765-7244-49D9-A522-2F5E6037EDB9",
+          "material_id": "5E0FC09E-FD74-42C5-9DD5-D6EAF8BE29EC",
+          "target_timerange": {
+            "start": 66750000,
+            "duration": 1800000
+          }
+        },
+        {
+          "id": "BACEF8F6-B43E-4D73-8E11-8A0064CFE0ED",
+          "material_id": "EC2E8733-2A29-43C2-8483-AC61A8ED0913",
+          "target_timerange": {
+            "start": 68550000,
+            "duration": 1600000
+          }
+        },
+        {
+          "id": "0817B5D8-3913-4ADE-9C6C-86F86CA8C9A0",
+          "material_id": "11A73EC1-DDFB-4A92-AAD0-7A39F0969ACE",
+          "target_timerange": {
+            "start": 70150000,
+            "duration": 1900000
+          }
+        },
+        {
+          "id": "792364CF-2865-4D0A-8DBE-E3A8F21DF597",
+          "material_id": "E707B747-1C5A-4EEA-AA0C-607904A6A9CF",
+          "target_timerange": {
+            "start": 72050000,
+            "duration": 1500000
+          }
+        },
+        {
+          "id": "0DDD2AB7-F2EA-47B8-8E7D-E6F41A3B356F",
+          "material_id": "9136B05B-A0AC-4C97-83C1-CB442F4D6F73",
+          "target_timerange": {
+            "start": 73550000,
+            "duration": 1400000
+          }
+        },
+        {
+          "id": "276C34E9-98D8-49F0-84AA-23ED4F73C922",
+          "material_id": "C0821676-2DC2-4655-BA2F-33B689DD57F4",
+          "target_timerange": {
+            "start": 74950000,
+            "duration": 1500000
+          }
+        }
+      ]
+    }
+  ]
+}
